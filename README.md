@@ -50,9 +50,9 @@ Developer
 <tr>
 <td width="50%">
 
-### `PПрое`
+### `Проект 1`
 
-**Your project description**
+**Описание проекта**
 
 A short, clear description of what the project does and why it exists.
 
