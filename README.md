@@ -58,7 +58,7 @@
 
 <br/>
 
-→ [Repository](https://github.com/ulun-bulun)
+→ [Репозиторий](https://github.com/ulun-bulun)
 
 </td>
 
@@ -74,7 +74,7 @@
 
 <br/>
 
-→ [Repository](https://github.com/ulun-bulun)
+→ [Репозиторий](https://github.com/ulun-bulun)
 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 
 <br/>
 
-→ [Repository](https://github.com/ulun-bulun)
+→ [Репозиторий](https://github.com/ulun-bulun)
 
 </td>
 
@@ -108,7 +108,7 @@
 
 <br/>
 
-→ [Repository](https://github.com/ulun-bulun)
+→ [Репозиторий](https://github.com/ulun-bulun)
 
 </td>
 </tr>
