@@ -1,125 +1,126 @@
 <div align="center">
 
-# ILYACH
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:171717&text=ULUN-BULUN&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Developer%20%2F%2F%20Builder%20%2F%2F%20Learner&descAlignY=65&descSize=16" width="100%"/>
 
-### `Developer · Student · Builder`
+<br/>
 
-<p>
-  <a href="https://github.com/ulun-bulun">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Building-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Development-111111?style=for-the-badge" />
-</p>
+# `ULUN-BULUN`
+
+### Building things. Learning constantly. Shipping ideas.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ulun-bulun)
+[![Profile](https://komarev.com/ghpvc/?username=ulun-bulun\&style=flat-square\&color=000000\&label=PROFILE+VIEWS)](https://github.com/ulun-bulun)
 
 </div>
 
 ---
 
-## About
+## `01` — About
 
-> I build, experiment and learn by creating real things.
+I'm **Ilyach**, a developer focused on learning through building.
 
-I'm **Ilyach**, a developer and student focused on software development, technology and building useful digital products.
-
-Currently studying and expanding my skills through personal projects, experiments and open-source development.
+I enjoy turning ideas into working software, experimenting with new technologies
+and improving my skills one project at a time.
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   Developer                                          │
-│   ├── Learning                                       │
-│   ├── Building                                       │
-│   ├── Experimenting                                  │
-│   └── Improving                                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+Developer
+├── Build
+├── Experiment
+├── Learn
+└── Improve
 ```
 
 ---
 
-## Tech Stack
+## `02` — Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css,git,github,vscode,linux,docker&perline=11" />
 
 </div>
 
 ---
 
-## Selected Projects
+## `03` — Selected Work
 
-### `rep1`
+<table>
+<tr>
+<td width="50%">
 
-A space for experiments, ideas and development.
+### `PROJECT_01`
 
-→ **[View repository](https://github.com/ulun-bulun/rep1)**
+**Your project description**
 
-### `ulun-bulun`
+A short, clear description of what the project does and why it exists.
 
-My personal GitHub profile and developer space.
+`Python` · `TypeScript` · `API`
 
-→ **[View repository](https://github.com/ulun-bulun/ulun-bulun)**
+<br/>
+
+→ [Repository](https://github.com/ulun-bulun)
+
+</td>
+
+<td width="50%">
+
+### `PROJECT_02`
+
+**Your project description**
+
+Another project that demonstrates your skills, ideas or experiments.
+
+`JavaScript` · `React` · `Node.js`
+
+<br/>
+
+→ [Repository](https://github.com/ulun-bulun)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### `PROJECT_03`
+
+**Your project description**
+
+A project you're particularly proud of.
+
+`C++` · `Linux` · `Git`
+
+<br/>
+
+→ [Repository](https://github.com/ulun-bulun)
+
+</td>
+
+<td width="50%">
+
+### `PROJECT_04`
+
+**Your project description**
+
+Something you're currently building or experimenting with.
+
+`Technology` · `Technology`
+
+<br/>
+
+→ [Repository](https://github.com/ulun-bulun)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+## `04` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulun-bulun&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=00000000" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulun-bulun&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&bg_color=00000000" height="170"/>
-
-</div>
-
----
-
-## Contribution
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ulun-bulun&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## Currently
-
-```yaml
-name: Ilyach
-username: ulun-bulun
-
-role:
-  - Developer
-  - Student
-
-focus:
-  - Software Development
-  - Programming
-  - Open Source
-  - New Technologies
-
-status: Building something new
-```
-
----
-
-<div align="center">
-
-### `BUILD • LEARN • SHIP • REPEAT`
-
-<br>
-
-<sub>© 2026 Ilyach · Built with curiosity.</sub>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ulun-bulun&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&rank_icon=github&include_all_commits=t_
 
