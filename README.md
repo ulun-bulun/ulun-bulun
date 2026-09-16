@@ -19,10 +19,9 @@
 
 ## Обо мне
 
-I'm **Ilyach**, a developer focused on learning through building.
-
-I enjoy turning ideas into working software, experimenting with new technologies
-and improving my skills one project at a time.
+Зовут Илья. Студент 2 курса прикладной информатики Крымского инженерно-педагогического университета имени Февзи Якубова
+Сейчас изучаю: Python / JavaScript / HTML & CSS / C++
+Cоздаю полезные и интересные продукты
 
 ```text
 Developer
