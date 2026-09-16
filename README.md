@@ -8,16 +8,15 @@
 
 ### Обнаружение багов. Попытка исправить баги. Появление новых багов.
 
-┌─────────────────────────────────────────┐
-│                                         │
-│              🎧Ultimate                 │
-│              I'm the one                │
-│        ────────●──────────              │
-│        01:24          03:42             │
-│                                         │
-│              ▶  PLAY                    │
-│                                         │
-└─────────────────────────────────────────┘
+<div align="center">
+
+### 🎧 NOW PLAYING
+
+`Ultimate` — I'm the one
+
+[▶️ **PLAY MUSIC**]([https://...](https://my.mail.ru/music/songs/f3f12553fec468c34bfce8ab2c411520))
+
+</div>
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ulun-bulun)
