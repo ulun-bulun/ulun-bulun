@@ -26,19 +26,19 @@ and improving my skills one project at a time.
 
 ```text
 Developer
-├── Build
-├── Experiment
-├── Learn
-└── Improve
+├── Разработка
+├── Эксперименты
+├── Изучение
+└── Улучшение
 ```
 
 ---
 
-## `02` — Stack
+## Стек
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css,git,github,vscode,linux,docker&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,git,github,vscode,&perline=11" />
 
 </div>
 
