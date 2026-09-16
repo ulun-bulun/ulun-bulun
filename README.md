@@ -120,8 +120,6 @@ Developer
 
 ## Активность
 
-## `04` — Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ulun-bulun/ulun-bulun/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
