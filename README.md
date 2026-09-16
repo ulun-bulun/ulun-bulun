@@ -8,6 +8,16 @@
 
 ### Обнаружение багов. Попытка исправить баги. Появление новых багов.
 
+┌─────────────────────────────────────────┐
+│                                         │
+│              🎧Ultimate                 │
+│              I'm the one                │
+│        ────────●──────────              │
+│        01:24          03:42             │
+│                                         │
+│              ▶  PLAY                    │
+│                                         │
+└─────────────────────────────────────────┘
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ulun-bulun)
