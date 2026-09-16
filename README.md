@@ -44,13 +44,13 @@ Developer
 
 ---
 
-## `03` — Selected Work
+## Проекты
 
 <table>
 <tr>
 <td width="50%">
 
-### `PROJECT_01`
+### `PПрое`
 
 **Your project description**
 
