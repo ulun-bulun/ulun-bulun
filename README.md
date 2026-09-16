@@ -116,23 +116,4 @@ Developer
 </tr>
 </table>
 
----
-
-## Активность
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ulun-bulun/ulun-bulun/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ulun-bulun&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulun-bulun&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&langs_count=6" height="180"/>
-
-</div>
 
