@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:171717&text=ULUN-BULUN&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Developer%20%2F%2F%20Builder%20%2F%2F%20Learner&descAlignY=65&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:171717&text=ILYA&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Developer%20%2F%2F%20Builder%20%2F%2F%20Learner&descAlignY=65&descSize=16" width="100%"/>
 
 <br/>
 
-# `ILYA`
+# `ULUN-BULUN`
 
 ### Building things. Learning constantly. Shipping ideas.
 
