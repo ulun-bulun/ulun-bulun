@@ -54,7 +54,7 @@ Developer
 
 **Описание проекта**
 
-A short, clear description of what the project does and why it exists.
+Описание работы проекта.
 
 `Python` · `TypeScript` · `API`
 
@@ -66,11 +66,11 @@ A short, clear description of what the project does and why it exists.
 
 <td width="50%">
 
-### `PROJECT_02`
+### `Проект 2`
 
-**Your project description**
+**Описание проекта**
 
-Another project that demonstrates your skills, ideas or experiments.
+Описание работы проекта.
 
 `JavaScript` · `React` · `Node.js`
 
@@ -84,11 +84,11 @@ Another project that demonstrates your skills, ideas or experiments.
 <tr>
 <td width="50%">
 
-### `PROJECT_03`
+### `Проект 3`
 
-**Your project description**
+**Описание проекта**
 
-A project you're particularly proud of.
+Описание работы проекта.
 
 `C++` · `Linux` · `Git`
 
@@ -100,11 +100,11 @@ A project you're particularly proud of.
 
 <td width="50%">
 
-### `PROJECT_04`
+### `Проект 4`
 
-**Your project description**
+**Описание проекта**
 
-Something you're currently building or experimenting with.
+Описание работы проекта.
 
 `Technology` · `Technology`
 
@@ -118,7 +118,7 @@ Something you're currently building or experimenting with.
 
 ---
 
-## `04` — GitHub Activity
+## Активность
 
 <div align="center">
 
