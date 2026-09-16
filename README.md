@@ -6,7 +6,7 @@
 
 # `ULUN-BULUN`
 
-### Building things. Learning constantly. Shipping ideas.
+### Обнаружение багов. Попытка исправить баги. Появление новых багов.
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## `01` — About
+## Обо мне
 
 I'm **Ilyach**, a developer focused on learning through building.
 
